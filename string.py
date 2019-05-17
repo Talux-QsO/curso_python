@@ -4,11 +4,14 @@ print(myStr)
 print("Cris de vuelta " + myStr)
 print(f"My name is {name} jaja")
 print("My name is {0}".format(name))
+
 print(dir(myStr))
 print(myStr.upper())
 print(myStr.lower())
 print(myStr.capitalize())
+
 print(myStr.replace("hola","adios"))
+
 print(myStr.count("o"))
 print(myStr.count(" "))
 
